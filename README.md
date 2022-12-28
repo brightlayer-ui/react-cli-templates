@@ -1,3 +1,5 @@
+> This repo has been archived and moved [here](https://github.com/etn-ccis/blui-react-cli-templates).
+
 # React CLI Templates
 
 These are project templates that are used by Create React App when starting a new Brightlayer UI project. They are used behind the scenes by the Brightlayer UI CLI.
